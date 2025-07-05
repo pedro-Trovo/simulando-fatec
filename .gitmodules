@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/pedro-Trovo/simulando-fatec-backend
+[submodule "extrator"]
+	path = extrator
+	url = https://github.com/LucasOkokama/vestibular-extrair-questoes
