@@ -3,7 +3,7 @@
 	url = https://github.com/pedro-Trovo/simulando-fatec-backend
 [submodule "extrator"]
 	path = extrator
-	url = https://github.com/LucasOkokama/vestibular-extrair-questoes
+	url = https://github.com/LucasOkokama/simulando-fatec-extrator
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/pedro-Trovo/simulando-fatec-frontend
