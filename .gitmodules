@@ -1,9 +1,12 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/pedro-Trovo/simulando-fatec-backend
+	branch = main
 [submodule "extrator"]
 	path = extrator
 	url = https://github.com/LucasOkokama/simulando-fatec-extrator
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/pedro-Trovo/simulando-fatec-frontend
+	branch = main
